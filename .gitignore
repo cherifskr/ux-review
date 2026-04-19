@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.claude/
+
+# Logs / scratch
+*.log
+*.tmp
+tmp/
+
+# Node / npm — in case of future tooling scripts
+node_modules/
+dist/
+build/
+.env
+.env.local
